@@ -3,36 +3,34 @@
 Rice Cooker Project
 
 
-Welcome to the Rice Cooker project! This project aims to create a rice cooker simulator with basic features using different programming languages. 
+    Welcome to the Rice Cooker project! This project aims to create a rice cooker simulator with basic features using different programming languages. 
 
 Choose the programming language that suits you from C#, Ruby, Dart, and Swift.
 
 Features :
 
-Cook rice
+  Cook rice 
 
-Keep warm
+  Keep warm
 
-Set a timer
+  Set a timer
 
-Auto shutdown after cooking
+  Auto shutdown after cooking
 
-Return to the main menu after each action
+  Return to the main menu after each action
 
 Available Languages :
 
-C#
+  C#
 
-Ruby
+  Ruby
 
-Dart
+  Dart
 
-Swift
+  Swift
 
 How to Use :
 
 Clone the repository: git clone https://your-repo-link.git
-
 Navigate to the directory of your chosen language.
-
 Follow the language-specific instructions to run the program.
