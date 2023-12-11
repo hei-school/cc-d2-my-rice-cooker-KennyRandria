@@ -3,7 +3,7 @@
 Rice Cooker Project
 
 
-    Welcome to the Rice Cooker project! This project aims to create a rice cooker simulator with basic features using different programming languages. 
+   Welcome to the Rice Cooker project! This project aims to create a rice cooker simulator with basic features using different programming languages. 
 
 Choose the programming language that suits you from C#, Ruby, Dart, and Swift.
 
