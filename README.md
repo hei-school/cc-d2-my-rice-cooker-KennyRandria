@@ -1,9 +1,13 @@
-C Sharp
+Rice Cooker Simulator: Cook up a Storm with C#!
 
-C# specific instructions
+C# Specific Instructions
 
-1. Ensure you have .NET SDK installed.
+Prerequisites
 
-2. Navigate to the C# directory: cd CSharp.
+Make sure you have the .NET SDK installed.
+Instructions
 
-3. Run the program: dotnet run.
+Clone the repository: git clone https://github.com/hei-school/cc-d2-my-rice-cooker-KennyRandria.git
+Navigate to the C# directory: cd CSharp
+Run the program: dotnet run
+Enjoy your delicious, perfectly cooked rice!
