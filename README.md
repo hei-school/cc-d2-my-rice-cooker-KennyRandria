@@ -1,6 +1,8 @@
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)
+
 ## Rice Cooker Simulator: Get Cooking! ‍
 
-**Review Assignment Due Date: [https://classroom.github.com/a/PHq8Kfj](https://classroom.github.com/a/PHq8Kfj)_**
 
 Welcome to the exciting world of the Rice Cooker Simulator! This project lets you experiment with various programming languages to create a virtual rice cooker with essential features. Choose your weapon: C#, Ruby, Dart, or Swift, and start cooking!
 
@@ -14,10 +16,10 @@ Welcome to the exciting world of the Rice Cooker Simulator! This project lets yo
 
 **Available Languages:**
 
-- Dive into C# for a powerful and versatile experience: [https://github.com/cube0x0/SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers)
-- Master the art of rice with Ruby's elegance: [https://github.com/rimurx/DemonLordV2](https://github.com/rimurx/DemonLordV2)
-- Take control with Dart's modern simplicity: [https://github.com/joncchen/dart_vadar](https://github.com/joncchen/dart_vadar)
-- Embark on your culinary journey with Swift's agility: [https://github.com/learningequality/ricecooker](https://github.com/learningequality/ricecooker)
+- Dive into C# for a powerful and versatile experience:  [C#](https://github.com/hei-school/cc-d2-my-rice-cooker-KennyRandria/tree/feature/C%23)
+- Master the art of rice with Ruby's elegance: [RUBY](https://github.com/hei-school/cc-d2-my-rice-cooker-KennyRandria/tree/feature/Ruby)
+- Take control with Dart's modern simplicity: [DART](https://github.com/hei-school/cc-d2-my-rice-cooker-KennyRandria/tree/feature/Dart)
+- Embark on your culinary journey with Swift's agility: [SWIFT](https://github.com/hei-school/cc-d2-my-rice-cooker-KennyRandria/tree/feature/Swift)
 
 **Get Started:**
 
